@@ -1,0 +1,36 @@
+h1{
+    text-align: center;
+    color:black;
+    
+}
+.heading-3-background{
+    color:#ba6c6c;
+}
+
+p:hover{
+    background-color:lightpink;
+}
+h3:hover{
+    color:rgb(238, 108, 192);
+
+}
+body{
+    background-color: rgb(255, 227, 247);
+
+}
+#heading-4{
+    text-align: center;
+}
+
+ul:hover{
+    color:rgb(100, 103, 44)
+
+}
+h1{
+    text-shadow: #000000;
+}
+*{
+    margin:0;
+    padding:0;
+    
+}
